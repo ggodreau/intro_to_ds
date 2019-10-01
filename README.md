@@ -11,7 +11,7 @@ Topics Covered:
 
 - Musheen Lernin'
   - Notebooks
-    - <a href="../object_detection/">Object Detection (COCO docker image)</a>
+    - <a href="../object_detector/">Object Detection (COCO docker image)</a>
     - <a href="https://github.com/tensorflow/models/blob/master/research/object_detection">Object Detection (Tensorflo')</a>
   - Tensorflow Components
     - <a href="https://www.tensorflow.org/hub">Tensorflow Hub</a>
